@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lucky You</string>
+    <string name="play">Play</string>
+    <string name="setting">Setting</string>
+    <string name="mul">MultiPlayer</string>
+
+</resources>
